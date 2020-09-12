@@ -101,3 +101,4 @@ let airline#extensions#ale#warning_symbol = 'W:'
 " Hide files
 set wildignore+=__pycache__
 let NERDTreeRespectWildIgnore=1
+:tnoremap <Esc> <C-\><C-n>
